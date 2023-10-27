@@ -15,13 +15,13 @@
 apt-get update -y
 apt-get install git
 git clone https://github.com/Cyber-218/DDos-Tool.git
-cd DDoS_Tool
+cd DDoS-Tool
 python3 DDoS_Tool.py
 ```
 
 ## One line Installation:
 ```
-apt-get update -y && apt-get install git && git clone https://github.com/Cyber-218/DDos-Tool.git && cd RDDoS_Tool && python3 DDoS_Tool.py
+apt-get update -y && apt-get install git && git clone https://github.com/Cyber-218/DDos-Tool.git && cd DDoS-Tool && python3 DDoS_Tool.py
 ```
 
 ## أخطاء؟ استكشاف الأخطاء وإصلاحها هنا: إذا كان الأمر يتعلق بالمكتبات، فما عليك سوى كتابة هذه السلاسل: 
